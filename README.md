@@ -1,1 +1,1 @@
-# Bharat-Intern-SMS-Spam-Or-Ham-Classifier
+#SMS-Spam-Or-Ham-Classifier
